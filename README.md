@@ -1,3 +1,6 @@
+# FA22-BSE-038
+# Hameez Ahmad
+# Section B
 # Landing Page with Lead Capture Form
 
 This project is a responsive landing page for online courses that demonstrates an interactive design with a lead capture form. The form collects user information (Full Name, Email, and Phone Number) and saves it to a MySQL database using a PHP backend running on XAMPP. After a successful submission, users are redirected to a thank-you page.
