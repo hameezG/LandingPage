@@ -21,6 +21,8 @@ if ($conn->connect_error) {
 
     if ($stmt->execute()) {
         echo "Data saved successfully!";
+        header("Location: thankyou.php");
+
     } else {
         echo "Error: " . $stmt->error;
     }
